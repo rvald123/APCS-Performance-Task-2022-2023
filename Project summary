@@ -1,1 +1,4 @@
-
+This project will make an app to go trough a series of tasks
+Language will be objective C
+An we will use an external database, in this case Visual Studio Code
+Im currently not sure what libaries will be used but i imagine a GUI will be needed
